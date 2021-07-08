@@ -1,2 +1,2 @@
 # Hacker-Gateway
-Some Important Links
+https://notes.vulndev.io/notes/
