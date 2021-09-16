@@ -3,6 +3,7 @@
 2.  https://hausec.com/pentesting-cheatsheet/
 3.  https://infinitelogins.com/
 4.  https://github.com/sushant747/security
+5.  https://www.ired.team/
 
 
 
